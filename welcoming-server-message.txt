@@ -1,0 +1,30 @@
+square@nexorvpsi:~$ 
+
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                       N E X O R                           ║
+    ║                   Cloud Infrastructure                    ║
+    ╚═══════════════════════════════════════════════════════════╝
+
+           ███╗   ██╗███████╗██╗  ██╗ ██████╗ ██████╗
+           ████╗  ██║██╔════╝╚██╗██╔╝██╔═══██╗██╔══██╗
+           ██╔██╗ ██║█████╗   ╚███╔╝ ██║   ██║██████╔╝
+           ██║╚██╗██║██╔══╝   ██╔██╗ ██║   ██║██╔══██╗
+           ██║ ╚████║███████╗██╔╝ ██╗╚██████╔╝██║  ██║
+           ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
+
+               Alluniux | Powered by Nexor Cloud 🚀
+
+    ═══════════════════════════════════════════════════════════
+
+    ¡Bienvenido al servidor Nexor!
+
+    Si necesitas ayuda o tienes alguna consulta, no dudes en
+    contactar con nuestro equipo de soporte.
+
+    • Visit: https://alluniux.com
+    • Support: Equipo técnico especializado disponible 24/7
+    • Docs: Documentación completa en nuestro portal
+
+    ═══════════════════════════════════════════════════════════
+
+square@nexorvpsi:~$
